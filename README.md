@@ -1,5 +1,5 @@
 Requirements
-The following are the considerations that we had for selecting the language
+The considerations for selecting the language-
 
 **Comparing use cases**
 
